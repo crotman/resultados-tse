@@ -1,0 +1,13 @@
+name: resultados
+title: resultados
+username:
+account: crotman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7465371
+bundleId: 6456743
+url: https://crotman.shinyapps.io/resultados/
+when: 1667158865.15913
+lastSyncTime: 1667158865.15913
+asMultiple: FALSE
+asStatic: FALSE
